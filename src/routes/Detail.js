@@ -23,7 +23,7 @@ function Detail() {
   return (
     <div className={styles.main}>
       <div className={styles.title}>
-        <Link to="/" className={styles.title_text}>
+        <Link to="/movie-app" className={styles.title_text}>
           <p>HOME</p>
         </Link>
         <div className={styles.title_text}>
